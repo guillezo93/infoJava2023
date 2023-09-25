@@ -1,4 +1,4 @@
-package TrabajosPracticos01.IniciadoJavaJedi;
+package trabajospracticos.IniciadoJavaJedi;
 
 public class Potenciacion {
     public static void main(String[] args) {

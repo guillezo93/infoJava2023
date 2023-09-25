@@ -1,4 +1,4 @@
-package TrabajosPracticos01.IniciadoJavaJedi;
+package trabajospracticos.IniciadoJavaJedi;
 
 public class NombreEdad {
     public static void main(String[] args) {

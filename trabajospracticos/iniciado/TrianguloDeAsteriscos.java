@@ -1,4 +1,4 @@
-package TrabajosPracticos01.IniciadoJavaJedi;
+package trabajospracticos.IniciadoJavaJedi;
 
 public class TrianguloDeAsteriscos {
     public static void main(String[] args) {
