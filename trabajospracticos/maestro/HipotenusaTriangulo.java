@@ -14,7 +14,7 @@ public class HipotenusaTriangulo {
         System.out.println("Ingrese el valor del cateto b");
         b = teclado.nextInt();
 
-        h = (double) ((Math.pow(a,2)) + (Math.pow(b,2)));
+        h = ((Math.pow(a,2)) + (Math.pow(b,2)));
 
         System.out.println("La hipotenusa es: " + h);
     }
